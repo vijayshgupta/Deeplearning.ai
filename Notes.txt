@@ -6,3 +6,9 @@ def sigmoid_derivative(x):
     s = sigmoid(x)
     ds = s * (1 - s)
     return ds
+
+Don’t use for/while loops
+Activation functions: tanh > sigmoid. RELU or leaky RELU are also good
+
+d(sigmoid)/dx = sigmoid(1 - sigmoid)
+d(tanh)/dx = 1 - (tanh)^2
