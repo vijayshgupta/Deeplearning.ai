@@ -30,7 +30,7 @@ How many layers does this network have?
 
 8. There are certain functions with the following properties:
 (i) To compute the function using a shallow network circuit, you will need a large network (where we measure size by the number of logic gates in the network), but (ii) To compute it using a deep network circuit, you need only an exponentially smaller network. True/False?
-    False
+    True
 
 9. Consider the following 2 hidden layer neural network: 
 Which of the following statements are True? (Check all that apply).
